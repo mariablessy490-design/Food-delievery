@@ -70,3 +70,6 @@ https://www.figma.com/design/BuSYurIgkXXF55YpooepDO/Untitled?node-id=0-1&t=R69Yy
 I.Maria Blessy
 
 # License
+This project is created for educational purpose only.
+
+The project demonstrates how Figma can be used to design a complete mobile application with a consistent interface,interactive prototype flow and user-centred approach 
